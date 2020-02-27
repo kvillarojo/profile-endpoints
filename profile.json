@@ -2,22 +2,22 @@
   "projects": [
     {
       "name": "Dev Partnerns CRM",
-      "img_url": "",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/Dev%20Partners%20CRM",
       "url": "devpartners.co/crm"
     },
     {
       "name": "RTV Foundation",
-      "img_url": "''",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/Home%20-%20RTV%20Foundation",
       "url": "rtvfoundation.org"
     },
     {
       "name": "HT Realty",
-      "img_url": "''",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/HT%20Realty.png",
       "url": "sellers.htrealty.com"
     },
     {
       "name": "Don Sakagawa Realty",
-      "img_url": "",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/DSR.png",
       "url": "portal.donsakagawarealty.com"
     }
   ],
