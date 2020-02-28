@@ -31,34 +31,34 @@
     {
       "name": "Nature's Help",
       "img_url": "https://natureshelp.com.au/wp-content/uploads/2019/05/NH-logo-white.svg",
-      "url": "http://natureshelp.com.au",
+      "url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/np.png",
       "role": "Tech Support",
       "project_type": "CMS"
     },
     {
       "name": "Turmeric Australia",
-      "img_url": "",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/taus.png",
       "url": "http://turmericaustralia.com.au",
       "role": "Tech Support",
       "project_type":"CMS"
     },
     {
       "name": "That's My Spot",
-      "img_url": "",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/tms.png",
       "url": "http://thatsmyspot.com.au",
       "role": "Tech Support",
       "project_type": "CMS"
     },
     {
       "name": "Vera May",
-      "img_url": "",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/vmay.png",
       "url": "http://veramay.com.au",
       "role":"Tech Support",
       "project_type": "CMS"
     },
     {
       "name": "Eren & Tara",
-      "img_url": "",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/ent.png",
       "url": "http://erinandtara.com.au/",
       "role":"Tech Support",
       "project_type": "CMS"
