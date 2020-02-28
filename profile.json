@@ -3,54 +3,72 @@
     {
       "name": "Dev Partnerns CRM",
       "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/Dev%20Partners%20CRM.png",
-      "url": "http://devpartners.co/crm"
+      "url": "http://devpartners.co/crm",
+      "role": "Full Stack",
+      "project_type": "CRM"
     },
     {
       "name": "RTV Foundation",
       "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/Home%20-%20RTV%20Foundation.png",
-      "url": "http://rtvfoundation.org"
+      "url": "http://rtvfoundation.org",
+      "role":"Full Stack",
+      "project_type": "CMS"
     },
     {
       "name": "HT Realty",
       "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/HT%20Realty.png",
-      "url": "http://sellers.htrealty.ph"
+      "url": "http://sellers.htrealty.ph",
+      "role": "Full Stack",
+      "project_type": "CMS"
     },
     {
       "name": "Don Sakagawa Realty",
       "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/DSR.png",
-      "url": "portal.donsakagawarealty.com"
-    }
-  ],
-  "techSupport": [
+      "url": "http://portal.donsakagawarealty.com",
+      "role": "Full Stack",
+      "project_type": "CMS"
+    },
     {
       "name": "Nature Help",
       "img_url": "",
-      "url": "natureshelp.com.au"
+      "url": "natureshelp.com.au",
+      "role": "Tech Support",
+      "project_type": "CMS"
     },
     {
       "name": "Turmeric Australia",
       "img_url": "",
-      "url": "turmericaustralia.com.au"
+      "url": "turmericaustralia.com.au",
+      "role": "Tech Support",
+      "project_type":"CMS"
     },
     {
       "name": "That's My Spot",
       "img_url": "",
-      "url": "thatsmyspot.com.au"
+      "url": "thatsmyspot.com.au",
+      "role": "Tech Support",
+      "project_type": "CMS"
     },
     {
       "name": "Vera May",
       "img_url": "",
-      "url": "veramay.com.au"
+      "url": "veramay.com.au",
+      "role":"Tech Support",
+      "project_type": "CMS"
     },
     {
       "name": "Eren & Tara",
       "img_url": "",
-      "url": "erinandtara.com.au/"
+      "url": "erinandtara.com.au/",
+      "role":"Tech Support",
+      "project_type": "CMS"
     },
     {
       "name": "WonderHub",
       "img_url": "",
-      "url": "wonderhub.co.uk"
+      "url": "wonderhub.co.uk",
+      "role":"Tech Support",
+      "project_type":"CRM"
     }
   ]
 }
