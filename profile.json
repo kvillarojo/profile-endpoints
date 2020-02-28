@@ -30,8 +30,8 @@
     },
     {
       "name": "Nature's Help",
-      "img_url": "https://natureshelp.com.au/wp-content/uploads/2019/05/NH-logo-white.svg",
-      "url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/np.png",
+      "img_url": "https://raw.githubusercontent.com/kvillarojo/profile-endpoints/master/imgs/np.png",
+      "url": "http://natureshelp.com.au",
       "role": "Tech Support",
       "project_type": "CMS"
     },
