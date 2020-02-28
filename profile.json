@@ -29,44 +29,44 @@
       "project_type": "CMS"
     },
     {
-      "name": "Nature Help",
+      "name": "Nature's Help",
       "img_url": "",
-      "url": "natureshelp.com.au",
+      "url": "http://natureshelp.com.au",
       "role": "Tech Support",
       "project_type": "CMS"
     },
     {
       "name": "Turmeric Australia",
       "img_url": "",
-      "url": "turmericaustralia.com.au",
+      "url": "http://turmericaustralia.com.au",
       "role": "Tech Support",
       "project_type":"CMS"
     },
     {
       "name": "That's My Spot",
       "img_url": "",
-      "url": "thatsmyspot.com.au",
+      "url": "http://thatsmyspot.com.au",
       "role": "Tech Support",
       "project_type": "CMS"
     },
     {
       "name": "Vera May",
       "img_url": "",
-      "url": "veramay.com.au",
+      "url": "http://veramay.com.au",
       "role":"Tech Support",
       "project_type": "CMS"
     },
     {
       "name": "Eren & Tara",
       "img_url": "",
-      "url": "erinandtara.com.au/",
+      "url": "http://erinandtara.com.au/",
       "role":"Tech Support",
       "project_type": "CMS"
     },
     {
       "name": "WonderHub",
       "img_url": "",
-      "url": "wonderhub.co.uk",
+      "url": "http://wonderhub.co.uk",
       "role":"Tech Support",
       "project_type":"CRM"
     }
